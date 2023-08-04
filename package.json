@@ -1,0 +1,9 @@
+{
+  "name": "financialtracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "keywords": [],
+  "author": "M. Faisal Kemal",
+  "license": "MIT"
+}
